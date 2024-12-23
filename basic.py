@@ -24,3 +24,4 @@ print("The exponent of 2**3 is: ", result)
 
 result = 5 // 2
 print("The floor division of 5 by 2 is: ",result)
+print
